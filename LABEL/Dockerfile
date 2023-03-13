@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="GOPALA"\
+      COURSE="DOCKER"\
+      DURATION="25 HOURS"
